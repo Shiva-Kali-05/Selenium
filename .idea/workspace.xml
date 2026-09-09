@@ -4,22 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9e48662-31b7-49a5-b2f8-f375580e16d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/AssertJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Assertion_TestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/CloseVsQuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/DriverChangesInBetween.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Lab003_TestNgAnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/MaxandMinCmd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/NavigationCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/SearchContext_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/SeleniumCommands_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_TestNgExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    <list default="true" id="e9e48662-31b7-49a5-b2f8-f375580e16d0" name="Changes" comment="Selenium basics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Assertion_TestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/AssertionTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/CloseVsQuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/CloseVsQuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/DriverChangesInBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/DriverChangesInBetween.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/MaxandMinCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/MaxandMinCmd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/NavigationCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/NavigationCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/SearchContext_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/SearchContext_002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/SeleniumCommands_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/SeleniumCommands_003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/Selenium_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +43,12 @@
     &quot;accountId&quot;: &quot;4eeb83e3-d0bc-4b00-abd2-b3f1c1fed0a0&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/selenium/AssertionTestNG.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -76,16 +77,16 @@
     "TestNG.Selenium_TestNgExamples.test_selenium_appvwo.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RunManager" selected="Application.CloseVsQuite">
     <configuration name="CloseVsQuite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.CloseVsQuite" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Basics.CloseVsQuite" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.*" />
+          <option name="PATTERN" value="com.selenium.Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="NavigationCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.NavigationCommand" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Basics.NavigationCommand" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.*" />
+          <option name="PATTERN" value="com.selenium.Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,7 +111,7 @@
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.*" />
+          <option name="PATTERN" value="com.selenium.Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,7 +139,7 @@
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.*" />
+          <option name="PATTERN" value="com.selenium.Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,6 +172,19 @@
       <option name="presentableId" value="Default" />
       <updated>1783132864793</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium basics">
+      <option name="closed" value="true" />
+      <created>1788922823454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788922823454</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium basics" />
   </component>
 </project>
