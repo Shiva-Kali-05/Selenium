@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Shivakumar Kali/IdeaProjects/Selenium">
+        <classes>
+            <class name="com.selenium.AssertJ">
+                <methods><include name="AssertJ_1"/>
+                </methods>
+            </class>
+            <class name="com.selenium.Assertion_TestNG">
+                <methods><include name="test_selenium_01"/>
+                </methods>
+            </class>
+            <class name="com.selenium.Lab003_TestNgAnotation">
+                <methods><include name="test_selenium_01"/>
+                </methods>
+            </class>
+            <class name="com.selenium.Selenium_TestNgExamples">
+                <methods><include name="test_selenium_appvwo"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

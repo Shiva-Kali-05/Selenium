@@ -4,32 +4,164 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9e48662-31b7-49a5-b2f8-f375580e16d0" name="Changes" comment="" />
+    <list default="true" id="e9e48662-31b7-49a5-b2f8-f375580e16d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/AssertJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Assertion_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/CloseVsQuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/DriverChangesInBetween.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Lab003_TestNgAnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/MaxandMinCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/NavigationCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/SearchContext_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/SeleniumCommands_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_TestNgExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_001.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shiva-Kali-05&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shiva-Kali-05/Selenium.git&quot;,
+    &quot;accountId&quot;: &quot;4eeb83e3-d0bc-4b00-abd2-b3f1c1fed0a0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3G1It8rexTTVJ2mz1Pgkd226ylb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CloseVsQuite.executor": "Run",
+    "Application.NavigationCommand.executor": "Run",
+    "Application.SeleniumCommands_003.executor": "Run",
+    "Application.Selenium_001.executor": "Run",
+    "Application.Test.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Assertion_TestNG.test_selenium_01.executor": "Run",
+    "TestNG.C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml.executor": "Run",
+    "TestNG.Lab003_TestNgAnotation.executor": "Run",
+    "TestNG.Lab003_TestNgAnotation.test_selenium_01.executor": "Run",
+    "TestNG.Selenium_TestNgExamples.test_selenium_appvwo.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.CloseVsQuite">
+    <configuration name="CloseVsQuite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.CloseVsQuite" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigationCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.NavigationCommand" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assertion_TestNG.test_selenium_01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Assertion_TestNG" />
+      <option name="METHOD_NAME" value="test_selenium_01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium_TestNgExamples.test_selenium_appvwo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Selenium_TestNgExamples" />
+      <option name="METHOD_NAME" value="test_selenium_appvwo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CloseVsQuite" />
+        <item itemvalue="Application.NavigationCommand" />
+        <item itemvalue="TestNG.C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml" />
+        <item itemvalue="TestNG.Selenium_TestNgExamples.test_selenium_appvwo" />
+        <item itemvalue="TestNG.Assertion_TestNG.test_selenium_01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
