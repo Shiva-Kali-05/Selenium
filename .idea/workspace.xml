@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9e48662-31b7-49a5-b2f8-f375580e16d0" name="Changes" comment="Selenium basics">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/revStringNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Locators/TestSelenium_miniproject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Locators/testLinkTextPartialLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Locators/testSeleniumMiniProject2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.TestCase.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Assertion_TestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/AssertionTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/CloseVsQuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/CloseVsQuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/DriverChangesInBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/DriverChangesInBetween.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/MaxandMinCmd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/MaxandMinCmd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/NavigationCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/NavigationCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/SearchContext_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/SearchContext_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/SeleniumCommands_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/SeleniumCommands_003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/Selenium_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/AssertJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/AssertJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/AssertionTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/AssertionTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Lab003_TestNgAnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/Lab003_TestNgAnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_TestNgExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/Selenium_TestNgExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,64 +69,34 @@
     "Application.SeleniumCommands_003.executor": "Run",
     "Application.Selenium_001.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.revStringNumber.executor": "Debug",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.Assertion_TestNG.test_selenium_01.executor": "Run",
+    "TestNG.C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.TestCase.xml.executor": "Run",
     "TestNG.C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml.executor": "Run",
     "TestNG.Lab003_TestNgAnotation.executor": "Run",
     "TestNG.Lab003_TestNgAnotation.test_selenium_01.executor": "Run",
     "TestNG.Selenium_TestNgExamples.test_selenium_appvwo.executor": "Run",
+    "TestNG.TestSelenium_MiniProject2.executor": "Run",
+    "TestNG.TestSelenium_miniproject.executor": "Run",
+    "TestNG.TestSelenium_miniproject.testwebsite.executor": "Run",
+    "TestNG.Test_LinkText_PartialLinkText.executor": "Run",
+    "TestNG.testLinkTextPartialLinkText.executor": "Run",
+    "TestNG.testSeleniumMiniProject2.executor": "Run",
+    "TestNG.testSeleniumMiniProject2.test_signup_page.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "Errors"
+    "last_opened_file_path": "C:/Users/Shivakumar Kali/IdeaProjects/Selenium",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CloseVsQuite">
-    <configuration name="CloseVsQuite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.Basics.CloseVsQuite" />
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NavigationCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.selenium.Basics.NavigationCommand" />
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Assertion_TestNG.test_selenium_01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.Assertion_TestNG" />
-      <option name="METHOD_NAME" value="test_selenium_01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shivakumar Kali\IdeaProjects\Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.testSeleniumMiniProject2">
     <configuration name="C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -135,17 +107,69 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium_TestNgExamples.test_selenium_appvwo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium_miniproject.testwebsite" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.Basics.*" />
+          <option name="PATTERN" value="com.selenium.Locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.Selenium_TestNgExamples" />
-      <option name="METHOD_NAME" value="test_selenium_appvwo" />
+      <option name="PACKAGE_NAME" value="com.selenium.Locators" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Locators.TestSelenium_miniproject" />
+      <option name="METHOD_NAME" value="testwebsite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testLinkTextPartialLinkText" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.Locators" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Locators.testLinkTextPartialLinkText" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSeleniumMiniProject2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.Locators" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Locators.testSeleniumMiniProject2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSeleniumMiniProject2.test_signup_page" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.Locators" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Locators.testSeleniumMiniProject2" />
+      <option name="METHOD_NAME" value="test_signup_page" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -155,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CloseVsQuite" />
-        <item itemvalue="Application.NavigationCommand" />
+        <item itemvalue="TestNG.testSeleniumMiniProject2" />
+        <item itemvalue="TestNG.testSeleniumMiniProject2.test_signup_page" />
+        <item itemvalue="TestNG.testLinkTextPartialLinkText" />
         <item itemvalue="TestNG.C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml" />
-        <item itemvalue="TestNG.Selenium_TestNgExamples.test_selenium_appvwo" />
-        <item itemvalue="TestNG.Assertion_TestNG.test_selenium_01" />
+        <item itemvalue="TestNG.TestSelenium_miniproject.testwebsite" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788922823454</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Selenium basics">
+      <option name="closed" value="true" />
+      <created>1788923811871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788923811871</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

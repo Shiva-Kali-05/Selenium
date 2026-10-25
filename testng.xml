@@ -3,22 +3,11 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Shivakumar Kali/IdeaProjects/Selenium">
         <classes>
-            <class name="com.selenium.AssertJ">
-                <methods><include name="AssertJ_1"/>
+            <class name="com.selenium.Basics.AssertionTestNG">
+                <methods>
+                    <include name="test_selenium_01"/>
                 </methods>
-            </class>
-            <class name="com.selenium.AssertionTestNG">
-                <methods><include name="test_selenium_01"/>
-                </methods>
-            </class>
-            <class name="com.selenium.Lab003_TestNgAnotation">
-                <methods><include name="test_selenium_01"/>
-                </methods>
-            </class>
-            <class name="com.selenium.Selenium_TestNgExamples">
-                <methods><include name="test_selenium_appvwo"/>
-                </methods>
-            </class>
+        </class>
         </classes>
     </test>
 </suite>
