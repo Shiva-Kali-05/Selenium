@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9e48662-31b7-49a5-b2f8-f375580e16d0" name="Changes" comment="Selenium basics">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/revStringNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Locators/TestSelenium_miniproject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Locators/testLinkTextPartialLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Locators/testSeleniumMiniProject2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.TestCase.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Locators/KatalonProject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/AssertJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/AssertJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/AssertionTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/AssertionTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Lab003_TestNgAnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/Lab003_TestNgAnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/Selenium_TestNgExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/Basics/Selenium_TestNgExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +65,8 @@
     "TestNG.Assertion_TestNG.test_selenium_01.executor": "Run",
     "TestNG.C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.TestCase.xml.executor": "Run",
     "TestNG.C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml.executor": "Run",
+    "TestNG.KatalonProject.executor": "Run",
+    "TestNG.KatalonProject.test_KatalonSignIn.executor": "Run",
     "TestNG.Lab003_TestNgAnotation.executor": "Run",
     "TestNG.Lab003_TestNgAnotation.test_selenium_01.executor": "Run",
     "TestNG.Selenium_TestNgExamples.test_selenium_appvwo.executor": "Run",
@@ -96,18 +88,8 @@
       <recent name="C:\Users\Shivakumar Kali\IdeaProjects\Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.testSeleniumMiniProject2">
-    <configuration name="C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSelenium_miniproject.testwebsite" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.KatalonProject">
+    <configuration name="KatalonProject" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +98,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.selenium.Locators" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.Locators.TestSelenium_miniproject" />
-      <option name="METHOD_NAME" value="testwebsite" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Locators.KatalonProject" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KatalonProject.test_KatalonSignIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.Locators" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.Locators.KatalonProject" />
+      <option name="METHOD_NAME" value="test_KatalonSignIn" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -179,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.KatalonProject" />
+        <item itemvalue="TestNG.KatalonProject.test_KatalonSignIn" />
         <item itemvalue="TestNG.testSeleniumMiniProject2" />
         <item itemvalue="TestNG.testSeleniumMiniProject2.test_signup_page" />
         <item itemvalue="TestNG.testLinkTextPartialLinkText" />
-        <item itemvalue="TestNG.C:/Users/Shivakumar Kali/IdeaProjects/Selenium/testng.xml" />
-        <item itemvalue="TestNG.TestSelenium_miniproject.testwebsite" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788923811871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Selenium basics">
+      <option name="closed" value="true" />
+      <created>1792895720574</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1792895720574</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
